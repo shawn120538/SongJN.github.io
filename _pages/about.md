@@ -16,7 +16,7 @@ More information can be found in [faculty web](https://faculty.csu.edu.cn/songji
 
 Recent news
 ======
-Dec 2025, I have my personal page.
+Dec 2025, the personal academic page was born.
 
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=yourname.yourname)
